@@ -165,7 +165,7 @@ function App() {
           <h3>END</h3>
         </div>
         <div className="googleJoke">
-          <input type="form" className="UselessTextBox"></input>
+          <input type="form" className="UselessTextBox" placeholder="Not Google"></input>
           <p>
             Enter Text. Google Search. Enter. Big hands. How to grow hands. Big
             hand surgery. How to law. Delete website word
